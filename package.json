@@ -1,0 +1,19 @@
+{
+  "name": "crypto-arbitrage",
+  "version": "1.0.0",
+  "description": "Crypto arbitrage PWA with live prices and Telegram alerts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.5",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
